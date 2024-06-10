@@ -4,6 +4,6 @@ Space Dodge is an exciting arcade-style game built using the Pygame library in P
 
 ## Features
 -> Player-controlled spaceship navigating through a field of obstacles.<br>
--> Dynamic audio effects that respond to player actions.
--> Survival time tracking to challenge players to beat their own records.
+-> Dynamic audio effects that respond to player actions.<br>
+-> Survival time tracking to challenge players to beat their own records.<br>
 -> Highest score tracking to encourage competition among players.
